@@ -1,0 +1,11 @@
+customer_name,product,order_date,unit_price,Total_Price,quantity
+Alice,Laptop,2024-05-09,900.0,,
+,Laptop,2024-05-07,300.0,300.0,1.0
+,Laptop,2024-05-04,600.0,600.0,1.0
+,Tablet,2024-05-26,300.0,,
+Heidi,Tablet,2024-05-21,600.0,1200.0,2.0
+,Laptop,2024-05-18,600.0,1200.0,2.0
+,Tablet,2024-05-13,600.0,600.0,1.0
+,Laptop,2024-05-11,600.0,,
+Grace,Laptop,2024-05-29,600.0,1200.0,2.0
+Heidi,Phone,2024-05-24,900.0,,
